@@ -87,6 +87,8 @@ Python 2.7.x or Docker
 $ ./dumpsterFireFactory.py
 # Run TireFire's DumpsterFire Factory on Docker
 $ docker build --tag tirefire .
+
+
 $ docker run -ti --name tirefire1 tirefire
  
 
