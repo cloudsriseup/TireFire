@@ -1,4 +1,4 @@
-# DumpsterFire Toolset
+# Tire Fire's DumpsterFire Toolset
 
 Tire Fire's DumpsterFire Toolset - "Security Incidents In A Box!"
 
@@ -11,6 +11,7 @@ The toolset is designed to be dynamically extensible, allowing you to create you
 # Author
 
 Joe Gervais (TryCatchHCF)
+
 John Menerick (projectnexus)
 
 # Why
